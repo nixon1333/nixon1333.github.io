@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "nixon1333",
-    "repositoryName": "nixon1333.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"nixon1333","repositoryName":"nixon1333.github.io","branch":"master"},"site":{"title":"Ashraful Islam Nixon","logo":"http://www.ainixon.me/content/images/2015/Jan/Geek-2x.png","postsPerPage":"4","url":"https://nixon1333.github.io"},"socialnetwork":{"email":"info@ainixon.me","twitter":"nixon1333","linkedin":"nixon1333","facebook":"nixon1333","flickr":"nixon1333","instagram":"nixon1333","github":"nixon1333"},"theme":{"name":"Casper","url":"//nixon1333.github.io/themes/Casper"}}
